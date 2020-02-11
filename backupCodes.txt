@@ -1,0 +1,3 @@
+//from testng.xml file:
+<listener class-name="resources.ExtentReporterNG"/>
+
